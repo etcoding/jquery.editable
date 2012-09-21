@@ -21,11 +21,11 @@ Easy.
 Upon double-clicking on span text it will turn into an input field with a value of whatever text the span has.
 Blur or hit enter to return back to span and save changes, or hit esc to cancel changes.
 
-All parameters are optional. Shown are default values.
-	type: textarea, or one of the types that can be applied to the input field (text, tel, number, etc).
-	class: a class name applied to created input element.
-	idNameModifier: created input will have id and name set to source element's id name with this value appended.
-	event: one of the jQuery's event names that will trigger the swap. dblclick and click make most sense.
+All parameters are optional. Shown are default values.  
+	type: textarea, or one of the types that can be applied to the input field (text, tel, number, etc).  
+	class: a class name applied to created input element.  
+	idNameModifier: created input will have id and name set to source element's id name with this value appended.  
+	event: one of the jQuery's event names that will trigger the swap. dblclick and click make most sense.  
 
 
 
