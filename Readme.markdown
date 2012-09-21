@@ -19,7 +19,8 @@ Easy.
 
 ```
 Upon double-clicking on span text it will turn into an input field with a value of whatever text the span has.
-Blur or hit enter to return back to span and save changes, or hit esc to cancel changes.
+Blur or hit enter to return back to span and save changes, or hit esc to cancel changes. A "change" event can also be attached 
+to the original element.
 
 All parameters are optional. Shown are default values.  
 	type: textarea, or one of the types that can be applied to the input field (text, tel, number, etc).  
