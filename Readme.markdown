@@ -30,4 +30,4 @@ All parameters are optional. Shown are default values.
 
 
 
-To see it in action go to the demo page: http://www.etcoding.com/page/jQueryeditable-and-jQuerylabelize-plugins.aspx
+To see it in action go to the demo page: http://etcoding.com/docs/editable.html
